@@ -1,2 +1,2 @@
 # hello-world-js
-another code
+writing in javascript
